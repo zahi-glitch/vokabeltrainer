@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Build artifacts (the packaged .app is distributed via Releases, not committed)
+*.app/
+*.app.zip
+
+# Local scratch output
+grafico.png
+distribuzione_rest_bp.png
