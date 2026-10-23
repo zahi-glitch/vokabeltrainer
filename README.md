@@ -5,6 +5,17 @@ vocabulary from the *Die neue Linie 1 B1* coursebook. The vocabulary lives in
 three Excel workbooks — verbs, nouns and adjectives — with **one sheet per
 chapter** (Kapitel), so it is easy to read, edit and extend in Excel.
 
+## Try it online — no install
+
+A web version runs in any browser (phone, tablet or computer), with the same
+vocabulary as the Excel files:
+
+**▶ https://claude.ai/public/artifacts/M62hhMXyYrySZARfCF3KFN**
+
+It is a static snapshot built from the `.xlsx` files (currently chapters K1–K4);
+the link stays the same and the content refreshes each time the page is rebuilt
+from updated workbooks.
+
 ## Features
 
 - Flashcards filtered by **chapter**, **word type** (Verben / Nomen / Adjektive) and **theme**
